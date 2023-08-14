@@ -135,7 +135,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'https://lucide.dev/icons/',
+			icon: 'cat',
 			id: 'cat',
 			links: [
 				{
@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'https://tailwindcss.com/',
 				},
 				{
-					name: 'Code PenCool',
-					link: 'https://www.printables.com/',
+					name: 'Code Pen',
+					link: 'https://codepen.io/',
 				},
 				{
 					name: 'Coolers',
