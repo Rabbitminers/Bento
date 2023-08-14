@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
-			id: '1',
+			icon: 'https://lucide.dev/icons/',
+			id: 'cat',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Lucide',
+					link: 'https://lucide.dev/icons/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Font Awesome',
+					link: 'https://fontawesome.com/icons',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Feather',
+					link: 'https://feathericons.com/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Reverse Image',
+					link: 'https://www.google.com/imghp?hl=en',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'mouse-pointer-square',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'DaisyUI',
+					link: 'https://daisyui.com/components/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Tailwind',
+					link: 'https://tailwindcss.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Code PenCool',
+					link: 'https://www.printables.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Coolers',
+					link: 'https://coolors.co/cc5803-e2711d-ff9505-ffb627-ffc971',
 				},
 			],
 		},
